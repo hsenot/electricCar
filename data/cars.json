@@ -1,0 +1,50 @@
+{
+	"meta":{
+		"lastUpdate":{
+			"datetime":"21/03/2015 08:28:00",
+			"contributor":"hsenot"
+		}
+	},
+	"data":[
+	{
+		"brand":"Tesla",
+		"model":"",
+		"photos":[
+			"http://link.to.photo1",
+			"http://link.to.photo2"
+		],
+		"batteryOptions":[
+			{
+				"name":"option1",
+				"size":"60",
+				"unit":"kWh",
+				"technology":"Li-ion",
+				"range":"",
+				"weight":"",
+				"ownership":""
+			},
+			{
+				"name":"option2",
+				"size":"85",
+				"unit":"kWh",
+				"technology":"Li-ion",
+				"range":"",
+				"weight":"",
+				"ownership":""
+			}
+		],
+		"chargingOptions":[
+			{
+				"name":"SuperCharger network"
+			},
+			{
+				"name":"In-home"
+			},
+			{
+				"name":"Public network with compatible specs"
+			}
+		],
+		"extras":[]
+	}
+	]
+}

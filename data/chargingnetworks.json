@@ -1,0 +1,48 @@
+{
+	"meta":{
+
+	},
+	"data":[
+		{
+			"name":"Tesla Supercharger network",
+			"tariffPolicy":"Free for Tesla owners",
+			"chargingPoints":[
+				{
+					"name":"Charging point 1",
+					"specs":[
+						"fast": true
+					],
+					"lonlat":["143.43552","-37.43252"]
+				},
+				{
+					"name":"Charging point 2",
+					"extras":[
+						"fast": true
+					],
+					"lonlat":["143.6463","-37.5235"]
+				}
+			]
+		},
+		{
+			"name":"Public network",
+			"chargingPoints":[
+				{
+					"name":"CERES",
+					"specs":[
+						"fast": true
+					],
+					"tariff": "free",
+					"lonlat":["143.43552","-37.43252"]
+				},
+				{
+					"name":"Charging point 2",
+					"extras":[
+						"fast": true
+					],
+					"tariff": "flat",
+					"lonlat":["143.6463","-37.5235"]
+				}			
+			]
+		}
+	]
+}

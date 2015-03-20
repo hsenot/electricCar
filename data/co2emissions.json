@@ -1,0 +1,52 @@
+{
+	"meta":{
+		"source":{
+			"name":"NGA 2014",
+			"url":"http://link.to.nga.document",
+			"authority":"Australian Federal Government"
+		},
+		"scope":"2+3"
+	},
+	"data":[
+		{
+			"state":"ACT",
+			"CO2Factor":"???",
+			"unit":"kg/kWh"
+		},
+		{
+			"state":"NSW",
+			"CO2Factor":"1.2",
+			"unit":"kg/kWh"
+		},
+		{
+			"state":"NT",
+			"CO2Factor":"???",
+			"unit":"kg/kWh"
+		},
+		{
+			"state":"QLD",
+			"CO2Factor":"1.3",
+			"unit":"kg/kWh"
+		},
+		{
+			"state":"SA",
+			"CO2Factor":"0.5",
+			"unit":"kg/kWh"
+		},
+		{
+			"state":"TAS",
+			"CO2Factor":"0",
+			"unit":"kg/kWh"
+		},
+		{
+			"state":"VIC",
+			"CO2Factor":"1.34",
+			"unit":"kg/kWh"
+		},
+		{
+			"state":"WA",
+			"CO2Factor":"???",
+			"unit":"kg/kWh"
+		}
+	]
+}
